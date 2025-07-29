@@ -3,7 +3,7 @@
 <h2>👨‍💻 BI Projects:</h2>
 
 - <b>End To End Project</b>
-  - [Apple News Data Pipeline: From Raw Logs to Dashboard](https://github.com/zarasash/DataPipeline)
+  - [Apple News Data Pipeline: From Raw Logs to Looker Data models](https://github.com/zarasash/DataPipeline)
 - <b>SQL</b>
   - []() 
 - <b>Looker</b>
