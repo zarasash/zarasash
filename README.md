@@ -1,7 +1,32 @@
-## Hi there 👋
+<h1>Hi, I'm Zahra! <br/> <a href="https://www.linkedin.com/in/zahra-safdari-854726167/">Senior BI Analyst</a></h1>
+
+<h2>👨‍💻 BI Projects:</h2>
+
+- <b>Creating A PipeLine</b>
+  - []()
+- <b>SQL</b>
+  - []() 
+- <b>Looker</b>
+  - []()
+- <b>Tableau</b>
+  - [Editorial Performance Analysis](https://public.tableau.com/app/profile/zahra.safdari.shadloo/viz/PerformanceAnalysis_16055486754070/Dashboard1)
+  - [Covid Sentiment Analysis](https://public.tableau.com/app/profile/zahra.safdari.shadloo/viz/FinalOutput_16007136853130/Dashboard12)
+- <b>Python</b>
+  - []()
+- <b>Datamodel </b>
+  - [Proposing a Data Solution for an online business](https://docs.google.com/presentation/d/1Bfw5-fzlT4C-78cMm8NgJe5-gOEFvSmyv7jQgc0Uy9w/edit?usp=sharing)
+
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+[instagram]: https://www.instagram.com/zaraa_s
+[linkedin]: https://www.linkedin.com/in/zahra-safdari-854726167/
 
 <!--
-**zarasash/zarasash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
