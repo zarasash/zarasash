@@ -7,7 +7,7 @@
 - <b>SQL</b>
   - []() 
 - <b>Looker</b>
-  - []()
+  - [Apple News Dashboard](https://github.com/zarasash/lookerapplenews)
 - <b>Tableau</b>
   - [Editorial Performance Analysis](https://public.tableau.com/app/profile/zahra.safdari.shadloo/viz/PerformanceAnalysis_16055486754070/Dashboard1)
   - [Covid Sentiment Analysis](https://public.tableau.com/app/profile/zahra.safdari.shadloo/viz/FinalOutput_16007136853130/Dashboard12)
