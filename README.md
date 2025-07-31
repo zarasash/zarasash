@@ -5,7 +5,7 @@
 - <b>End To End Project</b>
   - [Apple News Data Pipeline: From Raw Logs to Looker Data models](https://github.com/zarasash/DataPipeline)
 - <b>SQL</b>
-  - [ Aggregated multi-platform video data (YT, FB, SC, JWP) using Dataform + BigQuery. Created KPIs and monetization insights.](https://github.com/zarasash/videoasset/tree/main) 
+  - [ Aggregated multi-platform video data using Dataform + BigQuery. Created KPIs and monetization insights.](https://github.com/zarasash/videoasset/tree/main) 
 - <b>Looker</b>
   - [Apple News Dashboard](https://github.com/zarasash/lookerapplenews)
 - <b>Tableau</b>
